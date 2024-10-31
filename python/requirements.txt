@@ -1,0 +1,3 @@
+wolframalpha
+python-dotenv
+pyinstaller

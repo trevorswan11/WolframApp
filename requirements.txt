@@ -1,3 +1,0 @@
-wolframalpha
-python-dotenv
-
