@@ -1,0 +1,11 @@
+[package]
+name = "rust"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "wolfram_terminal"
+path = "src/wolfram_terminal.rs"
+
+[dependencies]
+dotenv = "0.15.0"
