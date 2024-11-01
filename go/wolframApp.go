@@ -129,6 +129,9 @@ func main() {
 		queryButton.OnTapped()
 	}
 
+	icon, _ := fyne.LoadResourceFromPath("../wolfram_logo.ico")
+	myWindow.SetIcon(icon)
+
 	myWindow.SetContent(content)
 	myWindow.ShowAndRun()
 }
